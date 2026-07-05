@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/
-// 0174 (Easy)- Tic Tac Toe
+// 1174 (Easy)- Tic Tac Toe
 
 #include <bits/stdc++.h>
 using namespace std;
