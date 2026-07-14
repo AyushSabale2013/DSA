@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/
 // 1910 (Medium) Remove all occurances of substring
+// change 1
 
 #include <bits/stdc++.h>
 using namespace std;
